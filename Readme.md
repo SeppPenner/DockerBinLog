@@ -1,0 +1,1 @@
+Simple binlog file for https://github.com/dotnet/docs/issues/38789.
